@@ -3,8 +3,8 @@
 
 format: jb-article
 root: intro
-sections:
-- file: content
-  sections:
-  - file: markdown
-  - file: notebooks
+chapters:
+- file: preliminaries
+- file: nlp
+- file: vision
+
